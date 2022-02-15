@@ -1,0 +1,30 @@
+/Users/ibnaer/Desktop/Prueba/bin/Debug/net6.0/Prueba
+/Users/ibnaer/Desktop/Prueba/bin/Debug/net6.0/Prueba.deps.json
+/Users/ibnaer/Desktop/Prueba/bin/Debug/net6.0/Prueba.runtimeconfig.json
+/Users/ibnaer/Desktop/Prueba/bin/Debug/net6.0/Prueba.dll
+/Users/ibnaer/Desktop/Prueba/bin/Debug/net6.0/ref/Prueba.dll
+/Users/ibnaer/Desktop/Prueba/bin/Debug/net6.0/Prueba.pdb
+/Users/ibnaer/Desktop/Prueba/obj/Debug/net6.0/Prueba.csproj.AssemblyReference.cache
+/Users/ibnaer/Desktop/Prueba/obj/Debug/net6.0/Prueba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibnaer/Desktop/Prueba/obj/Debug/net6.0/Prueba.AssemblyInfoInputs.cache
+/Users/ibnaer/Desktop/Prueba/obj/Debug/net6.0/Prueba.AssemblyInfo.cs
+/Users/ibnaer/Desktop/Prueba/obj/Debug/net6.0/Prueba.csproj.CoreCompileInputs.cache
+/Users/ibnaer/Desktop/Prueba/obj/Debug/net6.0/Prueba.dll
+/Users/ibnaer/Desktop/Prueba/obj/Debug/net6.0/ref/Prueba.dll
+/Users/ibnaer/Desktop/Prueba/obj/Debug/net6.0/Prueba.pdb
+/Users/ibnaer/Desktop/Prueba/obj/Debug/net6.0/Prueba.genruntimeconfig.cache
+/Users/ibnaer/Documents/CETYS/Aplicaciones moviles /Programa Operaciones Basicas/bin/Debug/net6.0/Prueba
+/Users/ibnaer/Documents/CETYS/Aplicaciones moviles /Programa Operaciones Basicas/bin/Debug/net6.0/Prueba.deps.json
+/Users/ibnaer/Documents/CETYS/Aplicaciones moviles /Programa Operaciones Basicas/bin/Debug/net6.0/Prueba.runtimeconfig.json
+/Users/ibnaer/Documents/CETYS/Aplicaciones moviles /Programa Operaciones Basicas/bin/Debug/net6.0/Prueba.dll
+/Users/ibnaer/Documents/CETYS/Aplicaciones moviles /Programa Operaciones Basicas/bin/Debug/net6.0/ref/Prueba.dll
+/Users/ibnaer/Documents/CETYS/Aplicaciones moviles /Programa Operaciones Basicas/bin/Debug/net6.0/Prueba.pdb
+/Users/ibnaer/Documents/CETYS/Aplicaciones moviles /Programa Operaciones Basicas/obj/Debug/net6.0/Prueba.csproj.AssemblyReference.cache
+/Users/ibnaer/Documents/CETYS/Aplicaciones moviles /Programa Operaciones Basicas/obj/Debug/net6.0/Prueba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibnaer/Documents/CETYS/Aplicaciones moviles /Programa Operaciones Basicas/obj/Debug/net6.0/Prueba.AssemblyInfoInputs.cache
+/Users/ibnaer/Documents/CETYS/Aplicaciones moviles /Programa Operaciones Basicas/obj/Debug/net6.0/Prueba.AssemblyInfo.cs
+/Users/ibnaer/Documents/CETYS/Aplicaciones moviles /Programa Operaciones Basicas/obj/Debug/net6.0/Prueba.csproj.CoreCompileInputs.cache
+/Users/ibnaer/Documents/CETYS/Aplicaciones moviles /Programa Operaciones Basicas/obj/Debug/net6.0/Prueba.dll
+/Users/ibnaer/Documents/CETYS/Aplicaciones moviles /Programa Operaciones Basicas/obj/Debug/net6.0/ref/Prueba.dll
+/Users/ibnaer/Documents/CETYS/Aplicaciones moviles /Programa Operaciones Basicas/obj/Debug/net6.0/Prueba.pdb
+/Users/ibnaer/Documents/CETYS/Aplicaciones moviles /Programa Operaciones Basicas/obj/Debug/net6.0/Prueba.genruntimeconfig.cache
