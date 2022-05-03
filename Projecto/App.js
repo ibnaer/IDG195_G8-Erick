@@ -1,13 +1,14 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import { TextInput } from 'react-native-web';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.fonttitulo}>Helvetica Neue</Text>
-      <Text style={styles.fontbold}><br></br> Bold - ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890</Text>
-      <Text style={styles.fontregular}><br></br> Regular - ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890</Text>
-      <Text style={styles.fontlight}><br></br> Light - ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890</Text>
+      <Text style={styles.fonttitulo}>Desarrollo de apps 2022</Text>
+      <TextInput placeholder="Usuario" style={styles.Text} />
+      <br></br>
+      <TextInput placeholder="Contraseña" secureTextEntry={true} style={styles.Text} />
       <StatusBar style="auto" />
     </View>
   );
@@ -24,7 +25,7 @@ const styles = StyleSheet.create({
   fonttitulo: 
   {
     fontFamily: "Helvetica Neue, Arial, Sans Serif",
-    fontSize: "84px",
+    fontSize: "64px",
     fontWeight: "bold",
   },
 
@@ -42,10 +43,11 @@ const styles = StyleSheet.create({
     fontWeight: "normal",
   },
 
-  fontlight:
+  Text:
   {
     fontFamily: "Helvetica Neue, Arial, Sans Serif",
     fontSize: "24px",
     fontWeight: "300",
+    backgroundColor: "#fafafa",
   },
 });
